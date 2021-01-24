@@ -19,6 +19,7 @@ def main():
   u = Uploader()
   pathToFile = "path here"
   u.sendFiles(API_ANONFILE, pathToFile)
+main()
 ```
 
 <br><br>
@@ -30,6 +31,7 @@ def main():
   pathToFile = "path here"
   u.sendFiles(API_ANONFILE, pathToFile)
   print(u.url)
+main()
 ```
 
 ```

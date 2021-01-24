@@ -22,7 +22,7 @@ def main():
 ```
 
 <br><br>
-The URLs to access your uploaded files will be stored in the object's `url` member and can be accessed like so:
+The URL to access your uploaded files will be stored in the object's `url` member and can be accessed like so:
 
 ```
 def main():

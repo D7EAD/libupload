@@ -38,7 +38,7 @@ class Uploader():
         else:
             raise LUException(errors[ERROR_FILE_NO_EXIST])
 
-#    @func: prepareFile(self, api, filePath)
+#    @func: sendFile(self, api, filePath)
 #    @brief
 #       Prepares a file for upload to the chosen API.
 #    @return None

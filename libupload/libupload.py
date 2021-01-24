@@ -46,7 +46,7 @@ class Uploader():
         if (self.__checkFileExistence(filePath)):
             self.__uploadFile(api, filePath)
 
-#    @func: uploadFile(self, api, filePath)
+#    @func: __uploadFile(self, api, filePath)
 #    @brief
 #       Uploads a file to the given API internally.
 #       If successful, returns values into respective class members.

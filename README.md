@@ -38,3 +38,6 @@ main()
 Output:
   https://anonfiles.com/NaV9dwaCap9
 ```
+
+<br><br>
+You can also access members `response` and `status` for the entire JSON response or JSON status code.
